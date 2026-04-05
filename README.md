@@ -1,9 +1,9 @@
 # Olá, eu sou o Diogo! 👋
 
 ### 👨‍💻 Sobre mim
-[cite_start]Sou um entusiasta de dados em transição para a **Engenharia de Dados**, atualmente cursando ADS na FACENS[cite: 33, 34]. [cite_start]Minha jornada começou na área de parametrização de sistemas[cite: 6, 12], mas hoje foco em construir pipelines robustos, automatizados e escaláveis na nuvem.
+Sou um entusiasta de dados em transição para a **Engenharia de Dados**, atualmente cursando ADS na FACENS. ]Minha jornada começou na área de parametrização de sistemas, mas hoje foco em construir pipelines robustos, automatizados e escaláveis na nuvem.
 
-- [cite_start]🔭 Atualmente trabalhando como **Analista de Parametrização e Dados** na Unimed Sorocaba[cite: 12, 13].
+- 🔭 Atualmente trabalhando como **Analista de Parametrização e Dados** na Unimed Sorocaba.
 - ☁️ Especializando em **AWS** (S3, Lambda, Glue, Athena) e **Orquestração** (Airflow).
 - 📍 Baseado em Sorocaba/Votorantim, disponível para oportunidades **Híbridas (SP)** ou **Remotas**.
 
